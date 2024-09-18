@@ -11,6 +11,7 @@
 - [Library-One-Tap](https://github.com/qhy040404/Library-One-Tap-Android)：图书馆安卓小程序
 - [RSSHub-大学通知-大连理工大学](https://docs.rsshub.app/university.html#da-lian-li-gong-da-xue): 大工各官网 RSS.
 - [RSSforSSDUT](https://github.com/Augists/RSSforSSDUT): 开发区校区软件学院和国际信息与软件学院本科生通知
+- [koishi-plugin-ssdut-notice](https://github.com/saurlax/koishi-plugin-ssdut-notice)：Koishi 机器人插件，自动推送教务处、后勤部、开发区和软件软国院内通知
 
 ## 基础工具
 - [DLUT-login](https://github.com/BeautyYuYanli/DLUT-login): 自动化登陆大连理工大学统一认证系统和 webvpn 系统
